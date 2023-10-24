@@ -1,7 +1,6 @@
 # Banking Software
 
-A modernized Java Swing-based banking application with a user-friendly GUI.
-
+The Banking Software is a modern Java Swing-based application designed to streamline and enhance the banking experience. It offers a user-friendly graphical user interface for account creation and management.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
